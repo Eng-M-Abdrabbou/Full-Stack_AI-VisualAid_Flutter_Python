@@ -2,6 +2,8 @@
 
 ## Introduction
 
+This App Scored The 2nd Place for UAE Nation-wide Institute of Electrical and Electronics Engineers Software Engineering Project Competitions 2025.
+
 VisionAid Companion is a Flutter-based mobile application designed as an assistive technology tool, primarily for users with visual impairments. It leverages real-time computer vision models running on a Python backend, accessed via WebSockets, to provide auditory feedback about the user's surroundings. The app features object detection, hazard detection, scene description, text reading, and barcode scanning capabilities, along with voice control for navigation and Text-to-Speech (TTS) output for results. 
 
 It was entirely made for IEEE competition 2025, and accroding to the requirements of the competition, and based on the competition's theme, requirements and rules.
